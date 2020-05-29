@@ -1,3 +1,10 @@
+'''
+W E L C O 
+M E T O Z 
+O H O C O 
+R P O R A 
+T I O N 
+'''
 x="WELCOMETOZOHOCORPORATION"
 t=0
 for i in range(0,5):
@@ -8,16 +15,3 @@ for i in range(0,5):
      print(x[t],end=" ")
      t=t+1
  print("\r")
-
-'''
-n=input()
-for i in range(len(n)):
-  for j in range(len(n)):
-    if  i==j:
-        print(n[j],end=" ")
-    elif (i+j)==len(n)-1:
-        print(n[j],end=" ")
-    else:
-        print(end=" ")
-  print("\r")
-'''
